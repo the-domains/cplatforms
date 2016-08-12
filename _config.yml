@@ -1,0 +1,28 @@
+name: cplatforms
+favicon: null
+layout_spectrum: 0.006184017518535256
+typography_spectrum: 0.621205941773951
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.2478245326783508
+  lightness: 0.3293172703124583
+  saturation: 0.6209749239496887
+  rhythmicContrast: 0.20998041913844645
+purpose: []
